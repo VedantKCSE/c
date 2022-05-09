@@ -7,7 +7,7 @@
     
 */
 
-/* Answer */
+                     /* Answer */
 
 #include <stdio.h>
 int main() {
