@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 void main()
 {
     float c,r,h,p=3.14;
@@ -7,4 +8,5 @@ void main()
     printf("Radius = %f Height = %f \n",r,h);
     c=p*r*r*h;
     printf("Volume of Cylinder = %f ",c);
+    getch();
 }

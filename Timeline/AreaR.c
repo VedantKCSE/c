@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
     int l,b,a,p;
@@ -7,4 +8,5 @@ int main()
     a=l*b;
     p=2*(l+b);
     printf("Area of Rectangle = %d \nPerimeter = %d",a,p);
+    getch();
 }

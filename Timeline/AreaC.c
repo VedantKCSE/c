@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
     float r,a,c,p=3.14;
@@ -7,4 +8,5 @@ int main()
     a=p*r*r;
     c=2*p*r;
     printf("Area of Circle = %f \nCircumference = %f",a,c);
+    getch();
 }
