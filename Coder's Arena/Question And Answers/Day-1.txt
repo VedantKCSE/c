@@ -1,0 +1,8 @@
+🎉 Today's Questions 
+Let's get started with it now.
+
+Easy:- Write a C program to calculate the distance between the two points x1, y1, x2, and y2 are coordinates. 
+
+Moderate:- Program to find whether a number is positive or negative, given a number as input. 
+
+Code it till 8:30 today after that we can discuss the answer on discord if needed. ☺️
