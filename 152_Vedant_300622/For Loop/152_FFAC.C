@@ -1,0 +1,21 @@
+// For Loop ->> 1. Find factorial of n numbers.
+// Vedant kahalekar (*_*)
+
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+  int i,num,f=1;
+  clrscr();
+  printf("Enter the Number\n");
+  scanf("%d",&num);
+  for(i=1;i<=num;i++)
+  {
+	f=f*i;
+  }
+  printf("%d",f);
+  getch();
+}
+
+// VK :)
